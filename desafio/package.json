@@ -1,0 +1,17 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "localhost:3000/ -> Pode exibir uma mensagem de boas vindas qualquer localhost:3000/:slug-do-curso -> Deve exibir os detalhes do curso baseado no slug da rota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sass": "^1.26.9"
+  }
+}

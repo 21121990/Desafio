@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.1795" height="27.3815" viewBox="0 0 23.1795 27.3815">
+  <defs>
+    <linearGradient id="linear-gradient" x1="4418.0937" y1="21.3166" x2="4400.8304" y2="4.0533" gradientTransform="matrix(-1, 0, 0, 1, 4422.5023, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2eaade"/>
+      <stop offset="1" stop-color="#00dfe5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="4420.9926" y1="23.2285" x2="4403.7293" y2="5.9652" gradientTransform="matrix(-1, 0, 0, 1, 4422.5023, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d6cea"/>
+      <stop offset="1" stop-color="#2eaade"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_2" data-name="Camada 2">
+    <g id="Camada_1-2" data-name="Camada 1">
+      <g>
+        <path d="M20.4884,24.9258c-4.746-1.0487-12.5181-2.86-15.6826-3.6A1.8224,1.8224,0,0,1,3.3989,19.548V2.2036A1.8255,1.8255,0,0,1,5.6439.4248c4.0043.947,12.2841,2.9068,15.76,3.7415a1.8269,1.8269,0,0,1,1.4005,1.7892l-.098,17.1978A1.825,1.825,0,0,1,20.4884,24.9258Z" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75" fill="url(#linear-gradient)"/>
+        <path d="M17.59,26.8377c-4.746-1.0486-12.5181-2.86-15.6826-3.6A1.8224,1.8224,0,0,1,.5,21.46V4.1156A1.8255,1.8255,0,0,1,2.745,2.3368c4.0043.947,12.2841,2.9067,15.76,3.7415a1.8269,1.8269,0,0,1,1.4005,1.7892l-.098,17.1978A1.8249,1.8249,0,0,1,17.59,26.8377Z" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" fill="url(#linear-gradient-2)"/>
+        <line x1="19.5315" y1="6.7501" x2="22.5572" y2="5.0309" fill="none" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+        <path d="M1.2955,21.2916V4.6009c0-.9949.3643-1.5273,1.0649-1.5273" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3013"/>
+        <path d="M4.118,2.0648A1.3665,1.3665,0,0,1,5.4071.9718" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3013"/>
+        <g>
+          <path d="M9.7618,9.6642c-6.645-1.1194-6.6863,9.0427,0,10.2773S16.5877,10.814,9.7618,9.6642Z" fill="#fff"/>
+          <polyline points="9.796 11.828 9.796 15.369 11.918 17.378" fill="none" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.6051"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

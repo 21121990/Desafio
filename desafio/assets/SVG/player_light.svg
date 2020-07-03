@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.178" height="34.178" viewBox="0 0 34.178 34.178">
+  <defs>
+    <linearGradient id="linear-gradient" x1="5.0053" y1="29.1728" x2="29.1728" y2="5.0053" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2e7e5"/>
+      <stop offset="1" stop-color="#b9b9bd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="11.7037" y1="21.2133" x2="19.9523" y2="12.9647" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Camada_2" data-name="Camada 2">
+    <g id="Camada_1-2" data-name="Camada 1">
+      <g>
+        <circle cx="17.089" cy="17.089" r="16.589" fill="none" stroke-miterlimit="10" stroke="url(#linear-gradient)"/>
+        <path d="M12.0334,13.5042v7.17a2.0949,2.0949,0,0,0,3.0518,1.8635l6.981-3.5849a2.0948,2.0948,0,0,0,0-3.727l-6.981-3.5848A2.0948,2.0948,0,0,0,12.0334,13.5042Z" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

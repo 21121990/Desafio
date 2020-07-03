@@ -1,0 +1,63 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "userProgress": 80,
+      "title": "HTML & CSS",
+      "slug": "html-css",
+      "icon": "technologies_icons/html_css.svg",
+      "lessonCount": 12,
+      "duration": 120,
+      "modules": [
+        {
+          "title": "Introdução ao HTML",
+          "lessons": ["O que é HTML", "Tipografia", "Formulários"]
+        },
+        {
+          "title": "Introdução ao CSS",
+          "lessons": ["O que é CSS", "Primeiros passos", "Cores"]
+        },
+        {
+          "title": "Princípios do SEO",
+          "lessons": ["O que é SEO", "Head Tags", "Estratégias de SEO"]
+        },
+        {
+          "title": "Praticando",
+          "lessons": [
+            "Preparando ambiente",
+            "Estilizando cabeçalho",
+            "Design responsivo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userProgress": 55,
+      "title": "Lógica de programação",
+      "slug": "logica-de-programacao",
+      "icon": "technologies_icons/programming_logic.svg",
+      "lessonCount": 65,
+      "duration": 45,
+      "modules": [
+        {
+          "title": "Princípios básicos",
+          "lessons": [
+            "A lógica de programação",
+            "O que são algoritmos",
+            "Comunicação literal"
+          ]
+        },
+        {
+          "title": "Teoria da programação",
+          "lessons": [
+            "Variáveis",
+            "Tipos de dados",
+            "Operadores matemáticos",
+            "Estrutura condicionais"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.1795" height="27.3815" viewBox="0 0 23.1795 27.3815">
+  <defs>
+    <linearGradient id="linear-gradient" x1="4663.4913" y1="21.3166" x2="4646.228" y2="4.0533" gradientTransform="matrix(-1, 0, 0, 1, 4667.8998, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2eaade"/><stop offset="0" stop-color="#2d6cea"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="4666.3902" y1="23.2285" x2="4649.1269" y2="5.9652" gradientTransform="matrix(-1, 0, 0, 1, 4667.8998, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d6cea"/>
+      <stop offset="1" stop-color="#2eaade"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_2" data-name="Camada 2">
+    <g id="Camada_1-2" data-name="Camada 1">
+      <g>
+        <g>
+          <path d="M20.4884,24.9258c-4.746-1.0487-12.5181-2.86-15.6826-3.6A1.8224,1.8224,0,0,1,3.3989,19.548V2.2036A1.8255,1.8255,0,0,1,5.6439.4248c4.0043.947,12.2841,2.9068,15.76,3.7415a1.8269,1.8269,0,0,1,1.4005,1.7892l-.098,17.1978A1.825,1.825,0,0,1,20.4884,24.9258Z" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75" fill="url(#linear-gradient)"/>
+          <path d="M17.59,26.8377c-4.746-1.0486-12.5181-2.86-15.6826-3.6A1.8224,1.8224,0,0,1,.5,21.46V4.1156A1.8255,1.8255,0,0,1,2.745,2.3368c4.0043.947,12.2841,2.9067,15.76,3.7415a1.8269,1.8269,0,0,1,1.4005,1.7892l-.098,17.1978A1.8249,1.8249,0,0,1,17.59,26.8377Z" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" fill="url(#linear-gradient-2)"/>
+          <g>
+            <path d="M6.3186,16.9516l.3587.0568a.6074.6074,0,0,0,.73-.6142V12.0375a.8879.8879,0,0,0-.73-.8454l-.3587-.0568a.6074.6074,0,0,0-.73.6142v4.3567A.888.888,0,0,0,6.3186,16.9516Z" fill="#fff"/>
+            <path d="M9.4853,12.4849v4.433a.8051.8051,0,0,0,1.0286.7652l3.95-1.5909a.6884.6884,0,0,0,0-1.2046l-3.95-2.8421A.611.611,0,0,0,9.4853,12.4849Z" fill="#fff"/>
+          </g>
+        </g>
+        <line x1="19.5315" y1="6.7501" x2="22.5572" y2="5.0309" fill="none" stroke="#141f36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+        <path d="M1.2955,21.2916V4.6009c0-.9949.3643-1.5273,1.0649-1.5273" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3013"/>
+        <path d="M4.118,2.0648A1.3665,1.3665,0,0,1,5.4071.9718" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.3013"/>
+      </g>
+    </g>
+  </g>
+</svg>
